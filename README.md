@@ -1,10 +1,10 @@
 
 <a name="readme-top"></a>
 
+# <div align="center">🛰Space Travelers' Hub 🚀</div>
+
 <img width="1346" height="465" alt="stream" src="https://github.com/user-attachments/assets/3cc744e6-2387-4701-a8a5-680963d4e483" />
 
-
-# <div align="center">🛰Space Travelers' Hub 🚀</div>
 
 # 📗 Table of Contents
 
@@ -157,6 +157,9 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+# <div align="center">KAFKA STREAM 🚀</div>
+<img width="1366" height="726" alt="Kafka setup" src="https://github.com/user-attachments/assets/50978c89-69c9-49ee-bdfa-acd29c10b385" />
+
 
 ### In order to import a CSS file add the style-loader and css-loader to your module configuration
 
