@@ -71,9 +71,6 @@ In this Project, the actual live data from the SpaceX API. The task is to build 
 
 ## 💻 Getting Started with Create React App <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -159,73 +156,6 @@ npm start
 ```
 # <div align="center">KAFKA STREAM 🚀</div>
 <img width="1366" height="726" alt="Kafka setup" src="https://github.com/user-attachments/assets/50978c89-69c9-49ee-bdfa-acd29c10b385" />
-
-
-### In order to import a CSS file add the style-loader and css-loader to your module configuration
-
-- Run the following command:
-
-```
-npm install --save-dev style-loader css-loader
-```
-
-### Webhint installation.
-
-- Run the following command:
-
-```
-npm install --save-dev hint@7.x
-```
-
-### Stylelint installation.
-
-- Run the following command:
-
-```
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-```
-
-### ESLint
-
-- Run
-
-```
-npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
-```
-
-### Usage
-
-You can use this project by cloning it to your folder and changing index.html and styles.css files.
-
-### Run tests
-
-To run tests, run the following commands:
-
-To track linter errors locally follow these steps:
-
-Download all the dependencies run:
-
-```
-npm install
-```
-
-Track HTML linter errors run:
-
-```
-npx hint .
-```
-
-Track CSS linter errors run:
-
-```
-npx stylelint "**/*.{css,scss}"
-```
-
-Track JavaScript linter errors run:
-
-```
-npx eslint .
-```
 
 ### Deployment
 
