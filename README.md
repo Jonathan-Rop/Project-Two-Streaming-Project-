@@ -29,6 +29,7 @@
   <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">Python></li>
   <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">Kafka</a></li>
       <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PostgreSQL</a></li>
+      <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">JAVA</a></li>    
       <li><a href="https://react.dev/learn/start-a-new-react-project#create-react-app">Grafana</a></li>
 
 </ul>
