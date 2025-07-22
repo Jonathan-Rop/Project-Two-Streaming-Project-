@@ -87,7 +87,5 @@ To run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
-
 ### 👤 Jonathan Kiprono
 
